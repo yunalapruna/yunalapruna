@@ -10,7 +10,8 @@ Soy estudiante de ASIX, interesada por el desarrollo web y la analítica de dato
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ## Proyectos:
-- **Próximamente...**
+- **Diabetes Survivor**
+- **Pokemon Battle**
 
 ## Certificaciones:
 - **Microsoft Word 2019**
